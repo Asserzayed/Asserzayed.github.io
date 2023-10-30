@@ -108,11 +108,11 @@ author:
   avatar           : "/assets/images/asser-avatar.jpg"
   bio              : "I love pizza."
   location         : "Alexandria, Egypt"
-  email            : "assermohamedbiz@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:assermohamedbiz@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -130,7 +130,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/asser-zayed/"
+      url: "https://www.linkedin.com/in/asser-zayed/
 
 # Site Footer
 footer:
