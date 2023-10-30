@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Asser M."
+title                    : "Asser M. Zayed"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Personal blog"# site tagline that appears below site title in masthead
 name                     : "Asser M. Zayed"
-description              : "DevOps Enthusiast Personal Blog."
+description              : "Asser M. Zayed, DevOps Enthusiast Personal Blog."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,8 +107,8 @@ author:
   name             : "Asser M. Zayed"
   avatar           : "/assets/images/asser-avatar.jpg"
   bio              : "I love pizza."
-  location         : "ALX, EG"
-  email            :
+  location         : "Alexandria, Egypt"
+  email            : "assermohamedbiz@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -128,6 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/asser-zayed/"
 
 # Site Footer
 footer:
